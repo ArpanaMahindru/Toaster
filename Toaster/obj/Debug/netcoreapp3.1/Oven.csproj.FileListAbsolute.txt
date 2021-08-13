@@ -1,0 +1,13 @@
+C:\Users\arpan\source\repos\Toaster\Toaster\obj\Debug\netcoreapp3.1\Oven.csprojAssemblyReference.cache
+C:\Users\arpan\source\repos\Toaster\Toaster\obj\Debug\netcoreapp3.1\Oven.AssemblyInfoInputs.cache
+C:\Users\arpan\source\repos\Toaster\Toaster\obj\Debug\netcoreapp3.1\Oven.AssemblyInfo.cs
+C:\Users\arpan\source\repos\Toaster\Toaster\obj\Debug\netcoreapp3.1\Oven.csproj.CoreCompileInputs.cache
+C:\Users\arpan\source\repos\Toaster\Toaster\bin\Debug\netcoreapp3.1\Oven.exe
+C:\Users\arpan\source\repos\Toaster\Toaster\bin\Debug\netcoreapp3.1\Oven.deps.json
+C:\Users\arpan\source\repos\Toaster\Toaster\bin\Debug\netcoreapp3.1\Oven.runtimeconfig.json
+C:\Users\arpan\source\repos\Toaster\Toaster\bin\Debug\netcoreapp3.1\Oven.runtimeconfig.dev.json
+C:\Users\arpan\source\repos\Toaster\Toaster\bin\Debug\netcoreapp3.1\Oven.dll
+C:\Users\arpan\source\repos\Toaster\Toaster\bin\Debug\netcoreapp3.1\Oven.pdb
+C:\Users\arpan\source\repos\Toaster\Toaster\obj\Debug\netcoreapp3.1\Oven.dll
+C:\Users\arpan\source\repos\Toaster\Toaster\obj\Debug\netcoreapp3.1\Oven.pdb
+C:\Users\arpan\source\repos\Toaster\Toaster\obj\Debug\netcoreapp3.1\Oven.genruntimeconfig.cache
